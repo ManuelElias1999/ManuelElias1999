@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07110f"/><stop offset="1" stop-color="#0d1117"/></linearGradient><radialGradient id="glow"><stop stop-color="#00c896" stop-opacity=".28"/><stop offset="1" stop-color="#00c896" stop-opacity="0"/></radialGradient></defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/><circle cx="1040" cy="20" r="330" fill="url(#glow)"/>
+  <g fill="none" stroke="#00c896" stroke-opacity=".2"><path d="M800 70h90l45 45h120l55 55"/><path d="M760 285h120l55-55h180"/><circle cx="800" cy="70" r="6" fill="#00c896"/><circle cx="1110" cy="170" r="6" fill="#00c896"/><circle cx="760" cy="285" r="6" fill="#00c896"/></g>
+  <text x="70" y="75" fill="#00c896" font-family="monospace" font-size="18">manuel@web3:~$ whoami</text>
+  <text x="70" y="150" fill="#ffffff" font-family="Arial, sans-serif" font-size="52" font-weight="700">JUAN MANUEL ELIAS SORIA</text>
+  <text x="70" y="205" fill="#9fe8d3" font-family="monospace" font-size="27">BLOCKCHAIN ARCHITECT · WEB3 BUILDER</text>
+  <text x="70" y="268" fill="#a9b7b3" font-family="monospace" font-size="18">SOLIDITY  /  DEFI  /  SMART WALLETS  /  AI AGENTS</text>
+  <text x="70" y="315" fill="#00c896" font-family="monospace" font-size="16">Cochabamba, Bolivia  •  building across chains</text>
+</svg>

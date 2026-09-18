@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280">
+  <rect width="900" height="280" rx="20" fill="#0d1117"/>
+  <text x="450" y="38" text-anchor="middle" fill="#fff" font-family="Arial" font-size="20" font-weight="700">ENGINEERING FOCUS</text>
+  <g font-family="monospace" font-size="15" fill="#d5e8e1">
+    <text x="55" y="87">Smart contracts</text><rect x="220" y="70" width="610" height="20" rx="10" fill="#17251f"/><rect x="220" y="70" width="570" height="20" rx="10" fill="#00c896"/>
+    <text x="55" y="132">System architecture</text><rect x="220" y="115" width="610" height="20" rx="10" fill="#17251f"/><rect x="220" y="115" width="550" height="20" rx="10" fill="#00b989"/>
+    <text x="55" y="177">DeFi & integrations</text><rect x="220" y="160" width="610" height="20" rx="10" fill="#17251f"/><rect x="220" y="160" width="530" height="20" rx="10" fill="#00a978"/>
+    <text x="55" y="222">Technical leadership</text><rect x="220" y="205" width="610" height="20" rx="10" fill="#17251f"/><rect x="220" y="205" width="515" height="20" rx="10" fill="#00996d"/>
+  </g><text x="450" y="260" text-anchor="middle" fill="#78988c" font-family="monospace" font-size="12">Based on professional focus — not a standardized assessment</text>
+</svg>
