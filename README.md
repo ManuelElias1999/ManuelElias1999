@@ -6,21 +6,11 @@
   <img src="assets/banner-dark.svg" width="100%" alt="Manuel Elias - Blockchain Architect">
 </picture>
 
-<br>
+### Blockchain Architect · Smart Contracts · DeFi · AI Agents
 
-<a href="https://github.com/ManuelElias1999">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2600&pause=900&color=00C896&center=true&vCenter=true&width=900&lines=Blockchain+Architect+%26+Web3+Builder;Smart+Contracts+%7C+DeFi+%7C+AI+Agents;Building+usable+products+across+multiple+chains" alt="Animated introduction">
-</a>
+[LinkedIn](https://www.linkedin.com/in/juan-manuel-elias-soria/) · [Instagram](https://www.instagram.com/manueleliasweb3/) · [TikTok](https://www.tiktok.com/@manueleliasweb3) · [Telegram](https://t.me/manueleliasweb3) · [Email](mailto:elias.soria.juan.manuel@gmail.com)
 
-<br>
-
-<a href="https://www.linkedin.com/in/juan-manuel-elias-soria/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-<a href="https://x.com/jmanuelelias99"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=00C896" alt="X"></a>&nbsp;
-<a href="mailto:elias.soria.juan.manuel@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00C896" alt="Email"></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ManuelElias1999&style=flat&color=00c896&label=profile+views" alt="Profile views">
+`@manueleliasweb3`
 
 </div>
 
@@ -51,24 +41,13 @@ For more than five years, I have designed and shipped on-chain and off-chain sys
 
 ## My stack
 
-<img src="https://skillicons.dev/icons?i=solidity,ts,js,react,nextjs,nodejs,python,cpp,postgres,tailwind,git,github,docker,aws,vscode&perline=8" alt="Technology stack">
+| Smart contracts | Applications | Infrastructure |
+|:---:|:---:|:---:|
+| Solidity · Foundry · Hardhat | TypeScript · JavaScript · React · Next.js | Node.js · Python · PostgreSQL · AWS · Docker |
 
-<br><br>
+**Ethereum · Base · Stacks · Stellar · Avalanche · Polygon**
 
-<img src="https://img.shields.io/badge/Ethereum-0D1117?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum">
-<img src="https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white" alt="Base">
-<img src="https://img.shields.io/badge/Stacks-5546FF?style=for-the-badge" alt="Stacks">
-<img src="https://img.shields.io/badge/Stellar-0D1117?style=for-the-badge&logo=stellar&logoColor=white" alt="Stellar">
-<img src="https://img.shields.io/badge/Avalanche-E84142?style=for-the-badge&logo=avalanche&logoColor=white" alt="Avalanche">
-<img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" alt="Polygon">
-
-<br>
-
-<img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" alt="Chainlink">
-<img src="https://img.shields.io/badge/Uniswap-FF007A?style=for-the-badge&logo=uniswap&logoColor=white" alt="Uniswap">
-<img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" alt="OpenZeppelin">
-<img src="https://img.shields.io/badge/Foundry-0D1117?style=for-the-badge" alt="Foundry">
-<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=black" alt="Hardhat">
+**Chainlink · Uniswap · Aerodrome · Aave · OpenZeppelin**
 
 </div>
 
@@ -145,14 +124,13 @@ Production systems for tokenization, liquidity and decentralized applications.
 
 <div align="center">
 
-## GitHub activity
+## At a glance
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=ManuelElias1999&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C896&icon_color=00C896&text_color=FFFFFF&ring_color=00C896" alt="GitHub statistics">
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelElias1999&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C896&text_color=FFFFFF" alt="Most used languages">
+| 5+ years | 6 networks | 100+ students | International awards |
+|:---:|:---:|:---:|:---:|
+| Web3 engineering | Multichain delivery | Solidity & Web3 education | Chainlink · Wormhole · Avalanche · Stacks |
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=ManuelElias1999&theme=github-dark-blue&hide_border=true&ring=00C896&fire=00C896&currStreakLabel=00C896" alt="GitHub streak">
+[Explore my repositories and contribution activity →](https://github.com/ManuelElias1999?tab=repositories)
 
 ---
 
